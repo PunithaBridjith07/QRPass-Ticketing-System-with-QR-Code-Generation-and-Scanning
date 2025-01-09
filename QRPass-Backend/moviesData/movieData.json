@@ -1,0 +1,364 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Movie 1",
+            "genre": "Genre",
+            "duration": 121,
+            "rating": 7.1,
+            "language": "English",
+            "showtimes": [
+                "2025-01-02T12:00:00",
+                "2025-01-02T18:00:00"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Movie 2",
+            "genre": "Genre",
+            "duration": 122,
+            "rating": 7.2,
+            "language": "English",
+            "showtimes": [
+                "2025-01-03T12:00:00",
+                "2025-01-03T18:00:00"
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Movie 3",
+            "genre": "Genre",
+            "duration": 123,
+            "rating": 7.3,
+            "language": "English",
+            "showtimes": [
+                "2025-01-04T12:00:00",
+                "2025-01-04T18:00:00"
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Movie 4",
+            "genre": "Genre",
+            "duration": 124,
+            "rating": 7.4,
+            "language": "English",
+            "showtimes": [
+                "2025-01-05T12:00:00",
+                "2025-01-05T18:00:00"
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Movie 5",
+            "genre": "Genre",
+            "duration": 125,
+            "rating": 7.5,
+            "language": "English",
+            "showtimes": [
+                "2025-01-06T12:00:00",
+                "2025-01-06T18:00:00"
+            ]
+        },
+        {
+            "id": 6,
+            "title": "Movie 6",
+            "genre": "Genre",
+            "duration": 126,
+            "rating": 7.6,
+            "language": "English",
+            "showtimes": [
+                "2025-01-07T12:00:00",
+                "2025-01-07T18:00:00"
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Movie 7",
+            "genre": "Genre",
+            "duration": 127,
+            "rating": 7.7,
+            "language": "English",
+            "showtimes": [
+                "2025-01-08T12:00:00",
+                "2025-01-08T18:00:00"
+            ]
+        },
+        {
+            "id": 8,
+            "title": "Movie 8",
+            "genre": "Genre",
+            "duration": 128,
+            "rating": 7.8,
+            "language": "English",
+            "showtimes": [
+                "2025-01-09T12:00:00",
+                "2025-01-09T18:00:00"
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Movie 9",
+            "genre": "Genre",
+            "duration": 129,
+            "rating": 7.9,
+            "language": "English",
+            "showtimes": [
+                "2025-01-10T12:00:00",
+                "2025-01-10T18:00:00"
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Movie 10",
+            "genre": "Genre",
+            "duration": 130,
+            "rating": 7.0,
+            "language": "English",
+            "showtimes": [
+                "2025-01-11T12:00:00",
+                "2025-01-11T18:00:00"
+            ]
+        },
+        {
+            "id": 11,
+            "title": "Movie 11",
+            "genre": "Genre",
+            "duration": 131,
+            "rating": 7.1,
+            "language": "English",
+            "showtimes": [
+                "2025-01-12T12:00:00",
+                "2025-01-12T18:00:00"
+            ]
+        },
+        {
+            "id": 12,
+            "title": "Movie 12",
+            "genre": "Genre",
+            "duration": 132,
+            "rating": 7.2,
+            "language": "English",
+            "showtimes": [
+                "2025-01-13T12:00:00",
+                "2025-01-13T18:00:00"
+            ]
+        },
+        {
+            "id": 13,
+            "title": "Movie 13",
+            "genre": "Genre",
+            "duration": 133,
+            "rating": 7.3,
+            "language": "English",
+            "showtimes": [
+                "2025-01-14T12:00:00",
+                "2025-01-14T18:00:00"
+            ]
+        },
+        {
+            "id": 14,
+            "title": "Movie 14",
+            "genre": "Genre",
+            "duration": 134,
+            "rating": 7.4,
+            "language": "English",
+            "showtimes": [
+                "2025-01-15T12:00:00",
+                "2025-01-15T18:00:00"
+            ]
+        },
+        {
+            "id": 15,
+            "title": "Movie 15",
+            "genre": "Genre",
+            "duration": 135,
+            "rating": 7.5,
+            "language": "English",
+            "showtimes": [
+                "2025-01-16T12:00:00",
+                "2025-01-16T18:00:00"
+            ]
+        },
+        {
+            "id": 16,
+            "title": "Movie 16",
+            "genre": "Genre",
+            "duration": 136,
+            "rating": 7.6,
+            "language": "English",
+            "showtimes": [
+                "2025-01-17T12:00:00",
+                "2025-01-17T18:00:00"
+            ]
+        },
+        {
+            "id": 17,
+            "title": "Movie 17",
+            "genre": "Genre",
+            "duration": 137,
+            "rating": 7.7,
+            "language": "English",
+            "showtimes": [
+                "2025-01-18T12:00:00",
+                "2025-01-18T18:00:00"
+            ]
+        },
+        {
+            "id": 18,
+            "title": "Movie 18",
+            "genre": "Genre",
+            "duration": 138,
+            "rating": 7.8,
+            "language": "English",
+            "showtimes": [
+                "2025-01-19T12:00:00",
+                "2025-01-19T18:00:00"
+            ]
+        },
+        {
+            "id": 19,
+            "title": "Movie 19",
+            "genre": "Genre",
+            "duration": 139,
+            "rating": 7.9,
+            "language": "English",
+            "showtimes": [
+                "2025-01-20T12:00:00",
+                "2025-01-20T18:00:00"
+            ]
+        },
+        {
+            "id": 20,
+            "title": "Movie 20",
+            "genre": "Genre",
+            "duration": 140,
+            "rating": 7.0,
+            "language": "English",
+            "showtimes": [
+                "2025-01-21T12:00:00",
+                "2025-01-21T18:00:00"
+            ]
+        },
+        {
+            "id": 21,
+            "title": "Movie 21",
+            "genre": "Genre",
+            "duration": 141,
+            "rating": 7.1,
+            "language": "English",
+            "showtimes": [
+                "2025-01-22T12:00:00",
+                "2025-01-22T18:00:00"
+            ]
+        },
+        {
+            "id": 22,
+            "title": "Movie 22",
+            "genre": "Genre",
+            "duration": 142,
+            "rating": 7.2,
+            "language": "English",
+            "showtimes": [
+                "2025-01-23T12:00:00",
+                "2025-01-23T18:00:00"
+            ]
+        },
+        {
+            "id": 23,
+            "title": "Movie 23",
+            "genre": "Genre",
+            "duration": 143,
+            "rating": 7.3,
+            "language": "English",
+            "showtimes": [
+                "2025-01-24T12:00:00",
+                "2025-01-24T18:00:00"
+            ]
+        },
+        {
+            "id": 24,
+            "title": "Movie 24",
+            "genre": "Genre",
+            "duration": 144,
+            "rating": 7.4,
+            "language": "English",
+            "showtimes": [
+                "2025-01-25T12:00:00",
+                "2025-01-25T18:00:00"
+            ]
+        },
+        {
+            "id": 25,
+            "title": "Movie 25",
+            "genre": "Genre",
+            "duration": 145,
+            "rating": 7.5,
+            "language": "English",
+            "showtimes": [
+                "2025-01-26T12:00:00",
+                "2025-01-26T18:00:00"
+            ]
+        },
+        {
+            "id": 26,
+            "title": "Movie 26",
+            "genre": "Genre",
+            "duration": 146,
+            "rating": 7.6,
+            "language": "English",
+            "showtimes": [
+                "2025-01-27T12:00:00",
+                "2025-01-27T18:00:00"
+            ]
+        },
+        {
+            "id": 27,
+            "title": "Movie 27",
+            "genre": "Genre",
+            "duration": 147,
+            "rating": 7.7,
+            "language": "English",
+            "showtimes": [
+                "2025-01-28T12:00:00",
+                "2025-01-28T18:00:00"
+            ]
+        },
+        {
+            "id": 28,
+            "title": "Movie 28",
+            "genre": "Genre",
+            "duration": 148,
+            "rating": 7.8,
+            "language": "English",
+            "showtimes": [
+                "2025-01-01T12:00:00",
+                "2025-01-01T18:00:00"
+            ]
+        },
+        {
+            "id": 29,
+            "title": "Movie 29",
+            "genre": "Genre",
+            "duration": 149,
+            "rating": 7.9,
+            "language": "English",
+            "showtimes": [
+                "2025-01-02T12:00:00",
+                "2025-01-02T18:00:00"
+            ]
+        },
+        {
+            "id": 30,
+            "title": "Movie 30",
+            "genre": "Genre",
+            "duration": 150,
+            "rating": 7.0,
+            "language": "English",
+            "showtimes": [
+                "2025-01-03T12:00:00",
+                "2025-01-03T18:00:00"
+            ]
+        }
+    ]
+}

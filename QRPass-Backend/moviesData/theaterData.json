@@ -1,0 +1,364 @@
+{
+    "theaters": [
+        {
+            "id": 1,
+            "name": "Theater 1",
+            "location": "Location 1",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Theater 2",
+            "location": "Location 2",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Theater 3",
+            "location": "Location 3",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Theater 4",
+            "location": "Location 4",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Theater 5",
+            "location": "Location 5",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Theater 6",
+            "location": "Location 6",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Theater 7",
+            "location": "Location 7",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Theater 8",
+            "location": "Location 8",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Theater 9",
+            "location": "Location 9",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Theater 10",
+            "location": "Location 10",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Theater 11",
+            "location": "Location 11",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Theater 12",
+            "location": "Location 12",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Theater 13",
+            "location": "Location 13",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Theater 14",
+            "location": "Location 14",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Theater 15",
+            "location": "Location 15",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Theater 16",
+            "location": "Location 16",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Theater 17",
+            "location": "Location 17",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Theater 18",
+            "location": "Location 18",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Theater 19",
+            "location": "Location 19",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Theater 20",
+            "location": "Location 20",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Theater 21",
+            "location": "Location 21",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Theater 22",
+            "location": "Location 22",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Theater 23",
+            "location": "Location 23",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Theater 24",
+            "location": "Location 24",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Theater 25",
+            "location": "Location 25",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Theater 26",
+            "location": "Location 26",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 27,
+            "name": "Theater 27",
+            "location": "Location 27",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Theater 28",
+            "location": "Location 28",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Theater 29",
+            "location": "Location 29",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Theater 30",
+            "location": "Location 30",
+            "movies": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ]
+        }
+    ]
+}

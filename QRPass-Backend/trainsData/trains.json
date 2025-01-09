@@ -1,0 +1,483 @@
+[
+  {
+    "trainName": "Rajdhani Express",
+    "trainNo": "12951",
+    "trainRoutes": [
+      {
+        "station": "Mumbai Central (MMCT)",
+        "arrivalTime": "04:00 PM",
+        "departureTime": "04:35 PM"
+      },
+      {
+        "station": "Surat (ST)",
+        "arrivalTime": "07:00 PM",
+        "departureTime": "07:05 PM"
+      },
+      {
+        "station": "Vadodara Junction (BRC)",
+        "arrivalTime": "09:00 PM",
+        "departureTime": "09:05 PM"
+      },
+      {
+        "station": "Ahmedabad Junction (ADI)",
+        "arrivalTime": "11:30 PM",
+        "departureTime": "11:40 PM"
+      },
+      {
+        "station": "Jaipur (JP)",
+        "arrivalTime": "07:00 AM",
+        "departureTime": "07:10 AM"
+      },
+      {
+        "station": "Delhi (NDLS)",
+        "arrivalTime": "11:00 AM",
+        "departureTime": null
+      }
+    ],
+    "trainCoaches": [
+      {
+        "coachType": "Sleeper",
+        "trainSeats": 120,
+        "price": 800
+      },
+      {
+        "coachType": "AC 3-Tier",
+        "trainSeats": 72,
+        "price": 1500
+      },
+      {
+        "coachType": "AC 2-Tier",
+        "trainSeats": 48,
+        "price": 2200
+      },
+      {
+        "coachType": "AC First Class",
+        "trainSeats": 24,
+        "price": 3500
+      }
+    ],
+    "trainArrivals": "04:00 PM",
+    "trainDeparture": "04:35 PM",
+    "totalHours": 19
+  },
+  {
+    "trainName": "Shatabdi Express",
+    "trainNo": "12009",
+    "trainRoutes": [
+      {
+        "station": "Mumbai Central (MMCT)",
+        "arrivalTime": "06:00 AM",
+        "departureTime": "06:10 AM"
+      },
+      {
+        "station": "Surat (ST)",
+        "arrivalTime": "08:30 AM",
+        "departureTime": "08:35 AM"
+      },
+      {
+        "station": "Vadodara Junction (BRC)",
+        "arrivalTime": "10:20 AM",
+        "departureTime": "10:25 AM"
+      },
+      {
+        "station": "Ahmedabad Junction (ADI)",
+        "arrivalTime": "12:45 PM",
+        "departureTime": null
+      }
+    ],
+    "trainCoaches": [
+      {
+        "coachType": "Chair Car",
+        "trainSeats": 78,
+        "price": 1200
+      },
+      {
+        "coachType": "Executive Chair Car",
+        "trainSeats": 56,
+        "price": 2000
+      }
+    ],
+    "trainArrivals": "06:00 AM",
+    "trainDeparture": "06:10 AM",
+    "totalHours": 6.5
+  },
+  {
+    "trainName": "Duronto Express",
+    "trainNo": "12260",
+    "trainRoutes": [
+      {
+        "station": "Sealdah (SDAH)",
+        "arrivalTime": "06:40 PM",
+        "departureTime": "07:10 PM"
+      },
+      {
+        "station": "Dhanbad Junction (DHN)",
+        "arrivalTime": "10:20 PM",
+        "departureTime": "10:25 PM"
+      },
+      {
+        "station": "Mughalsarai Junction (MGS)",
+        "arrivalTime": "04:00 AM",
+        "departureTime": "04:15 AM"
+      },
+      {
+        "station": "Delhi (NDLS)",
+        "arrivalTime": "12:00 PM",
+        "departureTime": null
+      }
+    ],
+    "trainCoaches": [
+      {
+        "coachType": "Sleeper",
+        "trainSeats": 200,
+        "price": 850
+      },
+      {
+        "coachType": "AC 3-Tier",
+        "trainSeats": 72,
+        "price": 1800
+      },
+      {
+        "coachType": "AC 2-Tier",
+        "trainSeats": 48,
+        "price": 2600
+      }
+    ],
+    "trainArrivals": "06:40 PM",
+    "trainDeparture": "07:10 PM",
+    "totalHours": 18
+  },
+  {
+    "trainName": "Gatimaan Express",
+    "trainNo": "12050",
+    "trainRoutes": [
+      {
+        "station": "Delhi (NDLS)",
+        "arrivalTime": "08:10 AM",
+        "departureTime": "08:30 AM"
+      },
+      {
+        "station": "Agra Cantt (AGC)",
+        "arrivalTime": "10:00 AM",
+        "departureTime": null
+      }
+    ],
+    "trainCoaches": [
+      {
+        "coachType": "Chair Car",
+        "trainSeats": 78,
+        "price": 750
+      },
+      {
+        "coachType": "Executive Chair Car",
+        "trainSeats": 56,
+        "price": 1500
+      }
+    ],
+    "trainArrivals": "08:10 AM",
+    "trainDeparture": "08:30 AM",
+    "totalHours": 1.5
+  },
+  {
+    "trainName": "Garib Rath Express",
+    "trainNo": "12203",
+    "trainRoutes": [
+      {
+        "station": "Saharsa (SHC)",
+        "arrivalTime": "06:20 PM",
+        "departureTime": "06:35 PM"
+      },
+      {
+        "station": "Patna Junction (PNBE)",
+        "arrivalTime": "09:50 PM",
+        "departureTime": "10:05 PM"
+      },
+      {
+        "station": "Varanasi Junction (BSB)",
+        "arrivalTime": "04:10 AM",
+        "departureTime": "04:20 AM"
+      },
+      {
+        "station": "Amritsar (ASR)",
+        "arrivalTime": "12:50 PM",
+        "departureTime": null
+      }
+    ],
+    "trainCoaches": [
+      {
+        "coachType": "AC 3-Tier",
+        "trainSeats": 64,
+        "price": 950
+      },
+      {
+        "coachType": "Sleeper",
+        "trainSeats": 80,
+        "price": 650
+      }
+    ],
+    "trainArrivals": "06:20 PM",
+    "trainDeparture": "06:35 PM",
+    "totalHours": 18.5
+  },
+  {
+    "trainName": "Howrah Duronto Express",
+    "trainNo": "12261",
+    "trainRoutes": [
+      {
+        "station": "Mumbai CST (CSMT)",
+        "arrivalTime": "05:00 PM",
+        "departureTime": "05:30 PM"
+      },
+      {
+        "station": "Nagpur Junction (NGP)",
+        "arrivalTime": "01:10 AM",
+        "departureTime": "01:20 AM"
+      },
+      {
+        "station": "Bhubaneswar (BBS)",
+        "arrivalTime": "10:30 AM",
+        "departureTime": "10:45 AM"
+      },
+      {
+        "station": "Howrah (HWH)",
+        "arrivalTime": "03:30 PM",
+        "departureTime": null
+      }
+    ],
+    "trainCoaches": [
+      {
+        "coachType": "Sleeper",
+        "trainSeats": 160,
+        "price": 1200
+      },
+      {
+        "coachType": "AC 3-Tier",
+        "trainSeats": 64,
+        "price": 2500
+      }
+    ],
+    "trainArrivals": "05:00 PM",
+    "trainDeparture": "05:30 PM",
+    "totalHours": 22
+  },
+  {
+    "trainName": "Chennai Egmore - Madurai Tejas Express",
+    "trainNo": "22671",
+    "trainRoutes": [
+      {
+        "station": "Chennai Egmore (MS)",
+        "arrivalTime": "06:00 AM",
+        "departureTime": "06:10 AM"
+      },
+      {
+        "station": "Villupuram Junction (VM)",
+        "arrivalTime": "07:50 AM",
+        "departureTime": "08:00 AM"
+      },
+      {
+        "station": "Tiruchirappalli Junction (TPJ)",
+        "arrivalTime": "10:15 AM",
+        "departureTime": "10:25 AM"
+      },
+      {
+        "station": "Madurai Junction (MDU)",
+        "arrivalTime": "12:30 PM",
+        "departureTime": null
+      }
+    ],
+    "trainCoaches": [
+      {
+        "coachType": "AC Chair Car",
+        "trainSeats": 200,
+        "price": 1000
+      },
+      {
+        "coachType": "Executive Chair Car",
+        "trainSeats": 50,
+        "price": 1500
+      }
+    ],
+    "trainArrivals": "06:00 AM",
+    "trainDeparture": "06:10 AM",
+    "totalHours": 6.5
+  },
+  {
+    "trainName": "Coimbatore - Chennai Central Shatabdi Express",
+    "trainNo": "12243",
+    "trainRoutes": [
+      {
+        "station": "Coimbatore Junction (CBE)",
+        "arrivalTime": "06:00 AM",
+        "departureTime": "06:10 AM"
+      },
+      {
+        "station": "Erode Junction (ED)",
+        "arrivalTime": "07:30 AM",
+        "departureTime": "07:35 AM"
+      },
+      {
+        "station": "Salem Junction (SA)",
+        "arrivalTime": "08:15 AM",
+        "departureTime": "08:20 AM"
+      },
+      {
+        "station": "Chennai Central (MAS)",
+        "arrivalTime": "01:10 PM",
+        "departureTime": null
+      }
+    ],
+    "trainCoaches": [
+      {
+        "coachType": "AC Chair Car",
+        "trainSeats": 300,
+        "price": 1200
+      },
+      {
+        "coachType": "Executive Chair Car",
+        "trainSeats": 50,
+        "price": 2000
+      }
+    ],
+    "trainArrivals": "06:00 AM",
+    "trainDeparture": "06:10 AM",
+    "totalHours": 7.1
+  },
+  {
+    "trainName": "Kanyakumari Express",
+    "trainNo": "12633",
+    "trainRoutes": [
+      {
+        "station": "Chennai Egmore (MS)",
+        "arrivalTime": "05:00 PM",
+        "departureTime": "05:10 PM"
+      },
+      {
+        "station": "Tiruchirappalli Junction (TPJ)",
+        "arrivalTime": "09:30 PM",
+        "departureTime": "09:40 PM"
+      },
+      {
+        "station": "Madurai Junction (MDU)",
+        "arrivalTime": "11:40 PM",
+        "departureTime": "11:50 PM"
+      },
+      {
+        "station": "Kanyakumari (CAPE)",
+        "arrivalTime": "06:20 AM",
+        "departureTime": null
+      }
+    ],
+    "trainCoaches": [
+      {
+        "coachType": "Sleeper",
+        "trainSeats": 300,
+        "price": 750
+      },
+      {
+        "coachType": "AC 3-Tier",
+        "trainSeats": 128,
+        "price": 1500
+      },
+      {
+        "coachType": "AC 2-Tier",
+        "trainSeats": 64,
+        "price": 2000
+      }
+    ],
+    "trainArrivals": "05:00 PM",
+    "trainDeparture": "05:10 PM",
+    "totalHours": 13.3
+  },
+  {
+    "trainName": "Chennai - Coimbatore Intercity Express",
+    "trainNo": "12679",
+    "trainRoutes": [
+      {
+        "station": "Chennai Central (MAS)",
+        "arrivalTime": "02:30 PM",
+        "departureTime": "02:40 PM"
+      },
+      {
+        "station": "Katpadi Junction (KPD)",
+        "arrivalTime": "04:00 PM",
+        "departureTime": "04:10 PM"
+      },
+      {
+        "station": "Salem Junction (SA)",
+        "arrivalTime": "06:30 PM",
+        "departureTime": "06:40 PM"
+      },
+      {
+        "station": "Coimbatore Junction (CBE)",
+        "arrivalTime": "08:50 PM",
+        "departureTime": null
+      }
+    ],
+    "trainCoaches": [
+      {
+        "coachType": "Sleeper",
+        "trainSeats": 400,
+        "price": 600
+      },
+      {
+        "coachType": "AC Chair Car",
+        "trainSeats": 128,
+        "price": 1100
+      },
+      {
+        "coachType": "AC 3-Tier",
+        "trainSeats": 64,
+        "price": 1400
+      }
+    ],
+    "trainArrivals": "02:30 PM",
+    "trainDeparture": "02:40 PM",
+    "totalHours": 6.3
+  },
+  {
+    "trainName": "Tirunelveli - Chennai Egmore Nellai Express",
+    "trainNo": "12632",
+    "trainRoutes": [
+      {
+        "station": "Tirunelveli Junction (TEN)",
+        "arrivalTime": "06:00 PM",
+        "departureTime": "06:10 PM"
+      },
+      {
+        "station": "Madurai Junction (MDU)",
+        "arrivalTime": "09:30 PM",
+        "departureTime": "09:40 PM"
+      },
+      {
+        "station": "Dindigul Junction (DG)",
+        "arrivalTime": "10:30 PM",
+        "departureTime": "10:40 PM"
+      },
+      {
+        "station": "Chennai Egmore (MS)",
+        "arrivalTime": "06:30 AM",
+        "departureTime": null
+      }
+    ],
+    "trainCoaches": [
+      {
+        "coachType": "Sleeper",
+        "trainSeats": 400,
+        "price": 800
+      },
+      {
+        "coachType": "AC 3-Tier",
+        "trainSeats": 128,
+        "price": 1700
+      },
+      {
+        "coachType": "AC 2-Tier",
+        "trainSeats": 64,
+        "price": 2200
+      }
+    ],
+    "trainArrivals": "06:00 PM",
+    "trainDeparture": "06:10 PM",
+    "totalHours": 12.5
+  }
+]

@@ -1,0 +1,342 @@
+[
+    {
+        "station": "Mumbai Central (MMCT)",
+        "trains": [
+            {
+                "trainName": "Rajdhani Express",
+                "trainNo": "12951",
+                "arrivalTime": "04:00 PM",
+                "departureTime": "04:35 PM"
+            },
+            {
+                "trainName": "Shatabdi Express",
+                "trainNo": "12009",
+                "arrivalTime": "06:00 AM",
+                "departureTime": "06:10 AM"
+            }
+        ]
+    },
+    {
+        "station": "Surat (ST)",
+        "trains": [
+            {
+                "trainName": "Rajdhani Express",
+                "trainNo": "12951",
+                "arrivalTime": "07:00 PM",
+                "departureTime": "07:05 PM"
+            },
+            {
+                "trainName": "Shatabdi Express",
+                "trainNo": "12009",
+                "arrivalTime": "08:30 AM",
+                "departureTime": "08:35 AM"
+            }
+        ]
+    },
+    {
+        "station": "Vadodara Junction (BRC)",
+        "trains": [
+            {
+                "trainName": "Rajdhani Express",
+                "trainNo": "12951",
+                "arrivalTime": "09:00 PM",
+                "departureTime": "09:05 PM"
+            },
+            {
+                "trainName": "Shatabdi Express",
+                "trainNo": "12009",
+                "arrivalTime": "10:20 AM",
+                "departureTime": "10:25 AM"
+            }
+        ]
+    },
+    {
+        "station": "Ahmedabad Junction (ADI)",
+        "trains": [
+            {
+                "trainName": "Rajdhani Express",
+                "trainNo": "12951",
+                "arrivalTime": "11:30 PM",
+                "departureTime": "11:40 PM"
+            },
+            {
+                "trainName": "Shatabdi Express",
+                "trainNo": "12009",
+                "arrivalTime": "12:45 PM",
+                "departureTime": null
+            }
+        ]
+    },
+    {
+        "station": "Jaipur (JP)",
+        "trains": [
+            {
+                "trainName": "Rajdhani Express",
+                "trainNo": "12951",
+                "arrivalTime": "07:00 AM",
+                "departureTime": "07:10 AM"
+            }
+        ]
+    },
+    {
+        "station": "Delhi (NDLS)",
+        "trains": [
+            {
+                "trainName": "Rajdhani Express",
+                "trainNo": "12951",
+                "arrivalTime": "11:00 AM",
+                "departureTime": null
+            },
+            {
+                "trainName": "Duronto Express",
+                "trainNo": "12260",
+                "arrivalTime": "12:00 PM",
+                "departureTime": null
+            },
+            {
+                "trainName": "Gatimaan Express",
+                "trainNo": "12050",
+                "arrivalTime": "08:10 AM",
+                "departureTime": "08:30 AM"
+            }
+        ]
+    },
+    {
+        "station": "Sealdah (SDAH)",
+        "trains": [
+            {
+                "trainName": "Duronto Express",
+                "trainNo": "12260",
+                "arrivalTime": "06:40 PM",
+                "departureTime": "07:10 PM"
+            }
+        ]
+    },
+    {
+        "station": "Dhanbad Junction (DHN)",
+        "trains": [
+            {
+                "trainName": "Duronto Express",
+                "trainNo": "12260",
+                "arrivalTime": "10:20 PM",
+                "departureTime": "10:25 PM"
+            }
+        ]
+    },
+    {
+        "station": "Mughalsarai Junction (MGS)",
+        "trains": [
+            {
+                "trainName": "Duronto Express",
+                "trainNo": "12260",
+                "arrivalTime": "04:00 AM",
+                "departureTime": "04:15 AM"
+            }
+        ]
+    },
+    {
+        "station": "Agra Cantt (AGC)",
+        "trains": [
+            {
+                "trainName": "Gatimaan Express",
+                "trainNo": "12050",
+                "arrivalTime": "10:00 AM",
+                "departureTime": null
+            }
+        ]
+    },
+    {
+        "station": "Saharsa (SHC)",
+        "trains": [
+            {
+                "trainName": "Garib Rath Express",
+                "trainNo": "12203",
+                "arrivalTime": "06:20 PM",
+                "departureTime": "06:35 PM"
+            }
+        ]
+    },
+    {
+        "station": "Patna Junction (PNBE)",
+        "trains": [
+            {
+                "trainName": "Garib Rath Express",
+                "trainNo": "12203",
+                "arrivalTime": "09:50 PM",
+                "departureTime": "10:05 PM"
+            }
+        ]
+    },
+    {
+        "station": "Varanasi Junction (BSB)",
+        "trains": [
+            {
+                "trainName": "Garib Rath Express",
+                "trainNo": "12203",
+                "arrivalTime": "04:10 AM",
+                "departureTime": "04:20 AM"
+            }
+        ]
+    },
+    {
+        "station": "Amritsar (ASR)",
+        "trains": [
+            {
+                "trainName": "Garib Rath Express",
+                "trainNo": "12203",
+                "arrivalTime": "12:50 PM",
+                "departureTime": null
+            }
+        ]
+    },
+    {
+        "station": "Mumbai CST (CSMT)",
+        "trains": [
+            {
+                "trainName": "Howrah Duronto Express",
+                "trainNo": "12261",
+                "arrivalTime": "05:00 PM",
+                "departureTime": "05:30 PM"
+            }
+        ]
+    },
+    {
+        "station": "Nagpur Junction (NGP)",
+        "trains": [
+            {
+                "trainName": "Howrah Duronto Express",
+                "trainNo": "12261",
+                "arrivalTime": "01:10 AM",
+                "departureTime": "01:20 AM"
+            }
+        ]
+    },
+    {
+        "station": "Bhubaneswar (BBS)",
+        "trains": [
+            {
+                "trainName": "Howrah Duronto Express",
+                "trainNo": "12261",
+                "arrivalTime": "10:30 AM",
+                "departureTime": "10:45 AM"
+            }
+        ]
+    },
+    {
+        "station": "Howrah (HWH)",
+        "trains": [
+            {
+                "trainName": "Howrah Duronto Express",
+                "trainNo": "12261",
+                "arrivalTime": "03:30 PM",
+                "departureTime": null
+            }
+        ]
+    },
+    {
+        "station": "Chennai Egmore (MS)",
+        "trains": [
+            {
+                "trainName": "Chennai Egmore - Madurai Tejas Express",
+                "trainNo": "22671",
+                "arrivalTime": "06:00 AM",
+                "departureTime": "06:10 AM"
+            },
+            {
+                "trainName": "Kanyakumari Express",
+                "trainNo": "12633",
+                "arrivalTime": "05:00 PM",
+                "departureTime": "05:10 PM"
+            }
+        ]
+    },
+    {
+        "station": "Villupuram Junction (VM)",
+        "trains": [
+            {
+                "trainName": "Chennai Egmore - Madurai Tejas Express",
+                "trainNo": "22671",
+                "arrivalTime": "08:00 AM",
+                "departureTime": "08:10 AM"
+            },
+            {
+                "trainName": "Kanyakumari Express",
+                "trainNo": "12633",
+                "arrivalTime": "07:00 PM",
+                "departureTime": "07:10 PM"
+            }
+        ]
+    },
+    {
+        "station": "Madurai Junction (MDU)",
+        "trains": [
+            {
+                "trainName": "Chennai Egmore - Madurai Tejas Express",
+                "trainNo": "22671",
+                "arrivalTime": "11:30 AM",
+                "departureTime": null
+            },
+            {
+                "trainName": "Kanyakumari Express",
+                "trainNo": "12633",
+                "arrivalTime": "11:00 PM",
+                "departureTime": "11:10 PM"
+            }
+        ]
+    },
+    {
+        "station": "Kanyakumari (CAPE)",
+        "trains": [
+            {
+                "trainName": "Kanyakumari Express",
+                "trainNo": "12633",
+                "arrivalTime": "04:30 AM",
+                "departureTime": null
+            }
+        ]
+    },
+    {
+        "station": "Delhi Sarai Rohilla (DEE)",
+        "trains": [
+            {
+                "trainName": "Ajmer Shatabdi Express",
+                "trainNo": "12015",
+                "arrivalTime": "06:00 AM",
+                "departureTime": "06:10 AM"
+            }
+        ]
+    },
+    {
+        "station": "Ajmer Junction (AII)",
+        "trains": [
+            {
+                "trainName": "Ajmer Shatabdi Express",
+                "trainNo": "12015",
+                "arrivalTime": "12:45 PM",
+                "departureTime": null
+            }
+        ]
+    },
+    {
+        "station": "Pune Junction (PUNE)",
+        "trains": [
+            {
+                "trainName": "Deccan Queen",
+                "trainNo": "12123",
+                "arrivalTime": "11:30 AM",
+                "departureTime": "11:45 AM"
+            }
+        ]
+    },
+    {
+        "station": "Mumbai CST (CSMT)",
+        "trains": [
+            {
+                "trainName": "Deccan Queen",
+                "trainNo": "12123",
+                "arrivalTime": "04:30 PM",
+                "departureTime": null
+            }
+        ]
+    }
+]
